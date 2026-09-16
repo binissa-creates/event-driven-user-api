@@ -1,0 +1,12 @@
+{
+  "name": "event-driven-user-api",
+  "version": "1.0.0",
+  "description": "Simple User API for Event-Driven Programming",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
